@@ -1,0 +1,17 @@
+To compile the project, you need to run the following commands:
+1) use cd and ls to find the path of makefile and the cpp file
+2) make -f makefile (To make a makefile)
+3)./HW1 (Run the project)
+
+Then, you will see the Menu, there are 4 choices:
+1:Display an image
+2:Ray tracing       
+3:Shading      
+4:Glazed surface and animation
+As for the 4th choice:
+LookAt starts at (0,0.3,1), and rotates around y axis.
+LightDir is fixed as(-0.3,0.5,0.6).
+
+If you want to try another choice, run it again buy using the 2nd command. NO need to make the makefile again.
+
+
